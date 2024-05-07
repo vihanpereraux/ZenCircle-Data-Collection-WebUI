@@ -1,4 +1,4 @@
-Muse EEG Data Inspector
+##Muse EEG Data Inspector
 
 Welcome to the Muse EEG Data Inspector website, a comprehensive tool designed for real-time inspection and recording of EEG data from the MUSE 2 headband. This platform is ideal for researchers, neurofeedback therapists, and EEG enthusiasts who need a robust, user-friendly interface to monitor and analyze brainwave data.
 Features
